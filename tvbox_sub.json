@@ -1,52 +1,51 @@
 {
-    "lives":  [
-                  {
-                      "name":  "IPTV",
-                      "type":  0,
-                      "ua":  "okHttp/Mod-1.5.0.0",
-                      "url":  "https://live.ottiptv.cc/iptv.m3u?userid=967961642\u0026sign=8534d8e1e9fd2900a8666284ec31350b99c545e4f943b62acc9f28e2f474d912061da1bbc1f5bfb3634f892bccf69b9260f4c468cc23c7dc0365f392bb281f0663efcd32347e\u0026auth_token=7de09ab515ff98e1055cb9897fcc6aa9"
-                  },
-                  {
-                      "name":  "OmniBoxç´æ­",
-                      "type":  0,
-                      "url":  "http://dhnz08ml.ddnsto.com/api/tvbox/live-rooms.m3u?token=5IJozbLEKndLyxOwjUejmHtAOaSq1lVj"
-                  }
-              ],
-    "parses":  [
-
-               ],
-    "sites":  [
-                  {
-                      "api":  "http://dhnz08ml.ddnsto.com/api/tvbox/source/2064590542292914176?token=5IJozbLEKndLyxOwjUejmHtAOaSq1lVj",
-                      "filterable":  0,
-                      "key":  "spider_2064590542292914176",
-                      "name":  "jianpian",
-                      "searchable":  1,
-                      "type":  4
-                  },
-                  {
-                      "api":  "http://dhnz08ml.ddnsto.com/api/tvbox/source/2064758414046662656?token=5IJozbLEKndLyxOwjUejmHtAOaSq1lVj",
-                      "filterable":  0,
-                      "key":  "spider_2064758414046662656",
-                      "name":  "äººäººå½±è§PRO",
-                      "searchable":  1,
-                      "type":  4
-                  },
-                  {
-                      "api":  "http://dhnz08ml.ddnsto.com/api/tvbox/source/2064596847460093952?token=5IJozbLEKndLyxOwjUejmHtAOaSq1lVj",
-                      "filterable":  0,
-                      "key":  "spider_2064596847460093952",
-                      "name":  "çæ",
-                      "searchable":  1,
-                      "type":  4
-                  },
-                  {
-                      "api":  "http://dhnz08ml.ddnsto.com/api/tvbox/source/2064757444134834176?token=5IJozbLEKndLyxOwjUejmHtAOaSq1lVj",
-                      "filterable":  0,
-                      "key":  "spider_2064757444134834176",
-                      "name":  "123TV",
-                      "searchable":  1,
-                      "type":  4
-                  }
-              ],
-    "spider":  "https://cfd-24.top/Omnibox.jar;md5;16E1A670C0F8CE12BD993C1B488AACDE"
+  "lives": [
+    {
+      "name": "IPTV",
+      "type": 0,
+      "ua": "okHttp/Mod-1.5.0.0",
+      "url": "https://live.ottiptv.cc/iptv.m3u?userid=967961642&sign=8534d8e1e9fd2900a8666284ec31350b99c545e4f943b62acc9f28e2f474d912061da1bbc1f5bfb3634f892bccf69b9260f4c468cc23c7dc0365f392bb281f0663efcd32347e&auth_token=7de09ab515ff98e1055cb9897fcc6aa9"
+    },
+    {
+      "name": "OmniBox直播",
+      "type": 0,
+      "url": "http://dhnz08ml.ddnsto.com/api/tvbox/live-rooms.m3u?token=5IJozbLEKndLyxOwjUejmHtAOaSq1lVj"
+    }
+  ],
+  "parses": [],
+  "sites": [
+    {
+      "api": "http://dhnz08ml.ddnsto.com/api/tvbox/source/2064590542292914176?token=5IJozbLEKndLyxOwjUejmHtAOaSq1lVj",
+      "filterable": 0,
+      "key": "spider_2064590542292914176",
+      "name": "jianpian",
+      "searchable": 1,
+      "type": 4
+    },
+    {
+      "api": "http://dhnz08ml.ddnsto.com/api/tvbox/source/2064758414046662656?token=5IJozbLEKndLyxOwjUejmHtAOaSq1lVj",
+      "filterable": 0,
+      "key": "spider_2064758414046662656",
+      "name": "人人影视PRO",
+      "searchable": 1,
+      "type": 4
+    },
+    {
+      "api": "http://dhnz08ml.ddnsto.com/api/tvbox/source/2064596847460093952?token=5IJozbLEKndLyxOwjUejmHtAOaSq1lVj",
+      "filterable": 0,
+      "key": "spider_2064596847460093952",
+      "name": "盘搜",
+      "searchable": 1,
+      "type": 4
+    },
+    {
+      "api": "http://dhnz08ml.ddnsto.com/api/tvbox/source/2064757444134834176?token=5IJozbLEKndLyxOwjUejmHtAOaSq1lVj",
+      "filterable": 0,
+      "key": "spider_2064757444134834176",
+      "name": "123TV",
+      "searchable": 1,
+      "type": 4
+    }
+  ],
+  "spider": "https://cfd-24.top/Omnibox.jar;md5;16E1A670C0F8CE12BD993C1B488AACDE"
+}
