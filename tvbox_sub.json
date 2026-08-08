@@ -9,13 +9,13 @@
     {
       "name": "OmniBox直播",
       "type": 0,
-      "url": "http://dhnz08ml.ddnsto.com/api/tvbox/live-rooms.m3u?token=5IJozbLEKndLyxOwjUejmHtAOaSq1lVj"
+      "url": "https://ddnsto-proxy.d9843e5f3eceb76201a8e0016e75168b.workers.dev/proxy?target=http%3A%2F%2Fdhnz08ml.ddnsto.com%2Fapi%2Ftvbox%2Flive-rooms.m3u%3Ftoken%3D5IJozbLEKndLyxOwjUejmHtAOaSq1lVj"
     }
   ],
   "parses": [],
   "sites": [
     {
-      "api": "http://dhnz08ml.ddnsto.com/api/tvbox/source/2064590542292914176?token=5IJozbLEKndLyxOwjUejmHtAOaSq1lVj",
+      "api": "https://ddnsto-proxy.d9843e5f3eceb76201a8e0016e75168b.workers.dev/proxy?target=http%3A%2F%2Fdhnz08ml.ddnsto.com%2Fapi%2Ftvbox%2Fsource%2F2064590542292914176%3Ftoken%3D5IJozbLEKndLyxOwjUejmHtAOaSq1lVj",
       "filterable": 0,
       "key": "spider_2064590542292914176",
       "name": "jianpian",
@@ -23,7 +23,7 @@
       "type": 4
     },
     {
-      "api": "http://dhnz08ml.ddnsto.com/api/tvbox/source/2064758414046662656?token=5IJozbLEKndLyxOwjUejmHtAOaSq1lVj",
+      "api": "https://ddnsto-proxy.d9843e5f3eceb76201a8e0016e75168b.workers.dev/proxy?target=http%3A%2F%2Fdhnz08ml.ddnsto.com%2Fapi%2Ftvbox%2Fsource%2F2064758414046662656%3Ftoken%3D5IJozbLEKndLyxOwjUejmHtAOaSq1lVj",
       "filterable": 0,
       "key": "spider_2064758414046662656",
       "name": "人人影视PRO",
@@ -31,7 +31,7 @@
       "type": 4
     },
     {
-      "api": "http://dhnz08ml.ddnsto.com/api/tvbox/source/2064596847460093952?token=5IJozbLEKndLyxOwjUejmHtAOaSq1lVj",
+      "api": "https://ddnsto-proxy.d9843e5f3eceb76201a8e0016e75168b.workers.dev/proxy?target=http%3A%2F%2Fdhnz08ml.ddnsto.com%2Fapi%2Ftvbox%2Fsource%2F2064596847460093952%3Ftoken%3D5IJozbLEKndLyxOwjUejmHtAOaSq1lVj",
       "filterable": 0,
       "key": "spider_2064596847460093952",
       "name": "盘搜",
@@ -39,7 +39,7 @@
       "type": 4
     },
     {
-      "api": "http://dhnz08ml.ddnsto.com/api/tvbox/source/2064757444134834176?token=5IJozbLEKndLyxOwjUejmHtAOaSq1lVj",
+      "api": "https://ddnsto-proxy.d9843e5f3eceb76201a8e0016e75168b.workers.dev/proxy?target=http%3A%2F%2Fdhnz08ml.ddnsto.com%2Fapi%2Ftvbox%2Fsource%2F2064757444134834176%3Ftoken%3D5IJozbLEKndLyxOwjUejmHtAOaSq1lVj",
       "filterable": 0,
       "key": "spider_2064757444134834176",
       "name": "123TV",
